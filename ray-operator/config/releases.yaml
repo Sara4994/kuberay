@@ -1,0 +1,8 @@
+releases:
+  - displayname: "kuberay project"
+    version: "1.0.0"
+    repourl: "github.com/opendatahub/kuberay"
+  - displayname: "kuberay"
+    version: "2.0.0"
+    repourl: "github.com/opendatahub/kuberay"
+    
